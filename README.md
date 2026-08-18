@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SmartSpam
 
 AI-Based Email and Text Spam Detection System.
