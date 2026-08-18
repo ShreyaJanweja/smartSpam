@@ -1,0 +1,16 @@
+node_modules/
+/.env
+/dist
+/build
+/.venv
+/venv
+__pycache__/
+.DS_Store
+.env.local
+.idea/
+.vscode/
+*.log
+/client/node_modules/
+/server/node_modules/
+env.*.local
+/.pytest_cache
