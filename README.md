@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartSpam
 
 AI-Based Email and Text Spam Detection System.
@@ -38,3 +39,6 @@ SmartSpam/
 - Implement API endpoints
 - Add authentication and database models
 - Implement ML FastAPI service and connect
+=======
+# smartSpam
+>>>>>>> 2b87eb8894d02f03dad0fbba2375dd203c5cfc03
