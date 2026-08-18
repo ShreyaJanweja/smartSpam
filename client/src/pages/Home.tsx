@@ -1,9 +1,9 @@
 import React from 'react'
-import Hero from '../components/Hero'
-import WhySection from '../components/WhySection'
-import Workflow from '../components/Workflow'
-import FeatureGrid from '../components/FeatureGrid'
-import CTASection from '../components/CTASection'
+import Hero from './components/Hero'
+import WhySection from './components/WhySection'
+import Workflow from './components/Workflow'
+import FeatureGrid from './components/FeatureGrid'
+import CTASection from './components/CTASection'
 
 export default function Home() {
   return (
