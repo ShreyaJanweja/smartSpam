@@ -1,10 +1,18 @@
 import React from 'react'
+import Hero from '../components/Hero'
+import WhySection from '../components/WhySection'
+import Workflow from '../components/Workflow'
+import FeatureGrid from '../components/FeatureGrid'
+import CTASection from '../components/CTASection'
 
-export default function Home(){
+export default function Home() {
   return (
-    <div>
-      <h1 className="text-3xl font-semibold">Welcome to SmartSpam</h1>
-      <p className="mt-2 text-slate-600">AI-assisted spam detection for email and SMS.</p>
+    <div className="bg-[#F7F7F5]">
+      <Hero />
+      <WhySection />
+      <Workflow />
+      <FeatureGrid />
+      <CTASection />
     </div>
   )
 }
